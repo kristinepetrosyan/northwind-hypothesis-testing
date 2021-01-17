@@ -18,7 +18,7 @@ As a data scientist working for Northwind Traders, I have been tasked with drawi
 
 The [Jupyter Notebook](https://github.com/nadinezab/northwind-hypothesis-testing/blob/main/northwind.ipynb) is our key deliverable and contains the answers to the above questions.
 
-# Data
+## Data
 
 The data was provided in the form of a SQLite database and can be found in this repository.
 It was originally provided by Flatiron School in the following [repository](https://github.com/learn-co-students/dsc-2-final-project-online-ds-ft-011419).
