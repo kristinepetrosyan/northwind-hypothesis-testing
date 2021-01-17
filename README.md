@@ -14,8 +14,6 @@ As a data scientist working for Northwind Traders, I have been tasked with drawi
 
 ## Components
 
-* **Jupyter Notebooks**
-
 The [Jupyter Notebook](https://github.com/nadinezab/northwind-hypothesis-testing/blob/main/northwind.ipynb) is our key deliverable and contains the answers to the above questions.
 
 ## Data
